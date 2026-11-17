@@ -8,8 +8,8 @@
 
 ## Day 2 | 2026.11.14
 
-- **Goal:** 
-- **Done:**  
-- **Learned:** 
-- **Stuck on:** 
-- **Tomorrow:** 
+- **Goal:** Learn arithmetic operators, 'float()', and number formatting.
+- **Done:**  Built Day02_tip_calculator
+- **Learned:** I learned how to use 'float()' for decimal numbers, 'int()' for whole numbers, and ':.2f' to show two decimal places.
+- **Stuck on:** Nothing
+- **Tomorrow:** Name Formatter
