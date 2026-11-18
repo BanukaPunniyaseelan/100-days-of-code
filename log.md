@@ -13,3 +13,11 @@
 - **Learned:** I learned how to use 'float()' for decimal numbers, 'int()' for whole numbers, and ':.2f' to show two decimal places.
 - **Stuck on:** Nothing
 - **Tomorrow:** Name Formatter
+
+## Day 3 | 2026.11.17
+
+- **Goal:** Learn string methods such as '.strip()', '.upper()', '.lower()', and '.title()'.
+- **Done:** Built Day03_name_formatter
+- **Learned:** I learned that '.strip()' remove extra spaces, '.title()' capitalizes each word, and 'len()' counts characters in a string
+- **Stuck on:** Nothing
+- **Tomorrow:** Age Category Checker
