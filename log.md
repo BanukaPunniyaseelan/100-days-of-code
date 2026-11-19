@@ -21,3 +21,11 @@
 - **Learned:** I learned that '.strip()' remove extra spaces, '.title()' capitalizes each word, and 'len()' counts characters in a string
 - **Stuck on:** Nothing
 - **Tomorrow:** Age Category Checker
+
+## Day 4 | 2026.11.18
+
+- **Goal:** Learn conditional statements using 'if', 'elif', and 'else'.
+- **Done:** Built Day04_age_category
+- **Learned:** Python checks conditions from top to bottom. Once one condition is true, it runs that block and skips the remaining 'elif' and 'else' blocks.
+- **Stuck on:** Nothing
+- **Tomorrow:** Logical Operators
