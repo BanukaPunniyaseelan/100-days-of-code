@@ -29,3 +29,11 @@
 - **Learned:** Python checks conditions from top to bottom. Once one condition is true, it runs that block and skips the remaining 'elif' and 'else' blocks.
 - **Stuck on:** Nothing
 - **Tomorrow:** Logical Operators
+
+## Day 5 | 2026.11.21
+
+- **Goal:** Practice `input()`, `float()`, arithmetic operators, and `if/elif/else`.
+- **Done:** Built Day05_text-based_calculator.
+- **Learned:** I learned how to compare text using `==`, convert user input with `float()`, and prevent division by zero.
+- **Stuck on:** Nothing
+- **Tomorrow:** Password strength checker
