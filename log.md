@@ -37,3 +37,11 @@
 - **Learned:** I learned how to compare text using `==`, convert user input with `float()`, and prevent division by zero.
 - **Stuck on:** Nothing
 - **Tomorrow:** Password strength checker
+
+## Day 6 | 2026.11.21
+
+- **Goal:**Learn string methods, `len()`, Boolean values, and combined conditions.
+- **Done:** Built Day06_password_strength_checker.
+- **Learned:** I learned that `len()` returns the number of characters, `.isdigit()` checks for numbers, and `.isupper()` / `.islower()` check letter cases.
+- **Stuck on:** Nothing
+- **Tomorrow:** Multiplication Table
