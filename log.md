@@ -45,3 +45,11 @@
 - **Learned:** I learned that `len()` returns the number of characters, `.isdigit()` checks for numbers, and `.isupper()` / `.islower()` check letter cases.
 - **Stuck on:** Nothing
 - **Tomorrow:** Multiplication Table
+
+## Day 7 | 2026.11.22
+
+- **Goal:** Learn `for` loops and `range()` function.
+- **Done:** Built Day07_multiplication_table.
+- **Learned:** `range(0, 13)` creates numbers from 1 to 10. A `for` loop repeats code once for every value in the range.
+- **Stuck on:** Nothing
+- **Tomorrow:** Favorite Movies
