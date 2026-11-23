@@ -61,3 +61,4 @@
 - **Learned:** Lists store multiple values. `append()` adds an item, `movies[0]` gets the first item, `movies[-1]` gets the last item, and `remove()` deletes a matching item.
 - **Stuck on:** I initially tried to remove a movie without checking whether it existed. I learned to use `if movie in movies:` before calling `remove()`.
 - **Tomorrow:** Contact Book.
+
