@@ -1,4 +1,4 @@
-<img width="775" height="1124" alt="image" src="https://github.com/user-attachments/assets/530c6903-9c3e-454c-9620-894a95f4187c" />## Day 1 | 2026.11.13
+## Day 1 | 2026.11.13
 
 - **Goal:** Run my first python code
 - **Done:** Created the repo, ran print and variables in Colab
