@@ -1,4 +1,4 @@
-## Day 1 | 2026.11.13
+<img width="775" height="1124" alt="image" src="https://github.com/user-attachments/assets/530c6903-9c3e-454c-9620-894a95f4187c" />## Day 1 | 2026.11.13
 
 - **Goal:** Run my first python code
 - **Done:** Created the repo, ran print and variables in Colab
@@ -53,3 +53,11 @@
 - **Learned:** `range(0, 13)` creates numbers from 1 to 10. A `for` loop repeats code once for every value in the range.
 - **Stuck on:** Nothing
 - **Tomorrow:** Favorite Movies
+
+## Day 8 | 2026.11.23
+
+- **Goal:** Learn lists, `append()`, `len()`, indexing, `sort()`, and `remove()`.
+- **Done:** Built Day08_favorite_movie_list.
+- **Learned:** Lists store multiple values. `append()` adds an item, `movies[0]` gets the first item, `movies[-1]` gets the last item, and `remove()` deletes a matching item.
+- **Stuck on:** I initially tried to remove a movie without checking whether it existed. I learned to use `if movie in movies:` before calling `remove()`.
+- **Tomorrow:** Contact Book.
