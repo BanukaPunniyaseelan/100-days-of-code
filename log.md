@@ -62,3 +62,10 @@
 - **Stuck on:** I initially tried to remove a movie without checking whether it existed. I learned to use `if movie in movies:` before calling `remove()`.
 - **Tomorrow:** Contact Book.
 
+## Day 9 | 2026.11.24
+
+- **Goal:** Learn dictionaries, adding data, searching data, updating data, and deleting data.
+- **Done:** Built Day09_contact_book.
+- **Learned:** Dictionaries use key-value pairs. I learned how to add a contact, check whether a key exists with `in`, update a value, delete a key with `del`, and loop through `contacts.items()`.
+- **Stuck on:** I first tried to access a contact that did not exist, which caused an error.  I learned to check with `if name in contacts: ` before accessing it.
+- **Tomorrow:**Word Counter
