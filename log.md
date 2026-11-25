@@ -69,3 +69,11 @@
 - **Learned:** Dictionaries use key-value pairs. I learned how to add a contact, check whether a key exists with `in`, update a value, delete a key with `del`, and loop through `contacts.items()`.
 - **Stuck on:** I first tried to access a contact that did not exist, which caused an error.  I learned to check with `if name in contacts: ` before accessing it.
 - **Tomorrow:**Word Counter
+
+## Day 10 | 2026.11.25
+
+- **Goal:** Learn `.lower()`, `.split()`, loops, dictionaries, and counting data.
+- **Done:** Built Day10_word_counter.
+- **Learned:** I learned that `.split()` separates a sentence into words, `.lower()` makes text lowercase, and a dictionary can store each word as a key with its count as the value.
+- **Stuck on:** I initially counted uppercase and lowercase versions of the same word separately. I fixed this by converting the sentence to lowercase before counting.
+- **Tomorrow:** Duplicate Remover
