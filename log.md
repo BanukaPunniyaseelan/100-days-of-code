@@ -76,4 +76,4 @@
 - **Done:** Built Day10_word_counter.
 - **Learned:** I learned that `.split()` separates a sentence into words, `.lower()` makes text lowercase, and a dictionary can store each word as a key with its count as the value.
 - **Stuck on:** I initially counted uppercase and lowercase versions of the same word separately. I fixed this by converting the sentence to lowercase before counting.
-- **Tomorrow:** Duplicate Remover
+- **Tomorrow:** Palindrome Checker.
